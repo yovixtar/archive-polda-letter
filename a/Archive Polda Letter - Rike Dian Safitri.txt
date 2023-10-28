@@ -1,0 +1,14 @@
+Langkah Instalasi :
+1. Download file .zip pada link berikut : https://rike.iyabos.com/f3649ace-a767-4577-a0fe-777ee00ee5cb
+
+2. Pastikan anda memiliki aplikasi WinRar
+3. Buka file pada aplikasi Windows Exploler
+4. Pindahkan file ke folder htdoct / folder untuk menjalankan server apache
+5. Klik kanan pada file dan pilih menu "Extract file..."
+6. Pilih lokasi ekstrak, jika ingin berada dilokasi yang sama pilih OK
+7. Masuk ke phpmyadmin, pilih menu Import
+8. Cari folder DB pada folder yang diekstrak tadi
+9. Pilih file arsip-surat-polda (create DB).sql dan OK
+10. Lalu Kirimkan file import dan Jalankan Aplikasi
+
+Untuk komunikasi lebih lanjut, hubungi kami via Whatsapp di 08122-0404-221 (Khazim)
